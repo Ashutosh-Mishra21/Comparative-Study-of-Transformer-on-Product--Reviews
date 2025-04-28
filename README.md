@@ -21,7 +21,7 @@ This project focuses on sentiment analysis of Amazon healthcare product reviews 
 A weighted combination of VADER and RoBERTa scores:
 \[
 S_{\text{hybrid}} = \alpha \times S_{\text{VADER}} + (1-\alpha) \times S_{\text{RoBERTa}}
-\]
+]\
 
 ## 📈 Evaluation Metrics
 - Accuracy
